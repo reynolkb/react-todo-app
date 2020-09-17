@@ -10,12 +10,12 @@ function Nav() {
                         <a className="navbar-brand text-white" href="/">Todo App</a>
                     </div>
                     <ul className="nav navbar-nav mr-auto">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/">Todo Lists</a></li>
+                        <li><a href="/react-todo-app">Home</a></li>
+                        <li><a href="/react-todo-app">Todo Lists</a></li>
                     </ul>
                     <ul className="nav navbar-nav navbar-right">
-                        <li><a href="/"><span className="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                        <li><a href="/"><span className="glyphicon glyphicon-log-in"></span> Login</a></li>
+                        <li><a href="/react-todo-app"><span className="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                        <li><a href="/react-todo-app"><span className="glyphicon glyphicon-log-in"></span> Login</a></li>
                     </ul>
                 </div>
             </nav>
