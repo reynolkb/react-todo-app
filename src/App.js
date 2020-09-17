@@ -10,7 +10,7 @@ function App() {
             <Nav />
             <div>
                 <Switch>
-                    <Route exact path="/" component={TodoPage} />
+                    <Route path="/" component={TodoPage} />
                     <Route component={NoMatch} />
                 </Switch>
             </div>
