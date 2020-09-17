@@ -4,7 +4,7 @@
 
 This is a Todo App.
 
-You can enter your todo items and mark them as complete. You can also filter by complted or uncompleted.
+You can enter your todo items and mark them as complete. You can also filter by completed or uncompleted.
 
 You can save your todo items off to local storage.
 
