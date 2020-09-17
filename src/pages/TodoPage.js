@@ -3,6 +3,7 @@ import '../App.css';
 // Importing Components
 import Form from '../components/Form/Form';
 import TodoList from '../components/TodoList/TodoList';
+import Nav from '../components/Nav/Nav';
 
 function TodoPage() {
   // set state
@@ -53,6 +54,7 @@ function TodoPage() {
 
   return (
     <div className="App">
+      <Nav />
       <header style={{ marginTop: "100px" }}>
         <h1>Enter Todos Below</h1>
       </header>
