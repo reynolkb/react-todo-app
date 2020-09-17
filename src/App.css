@@ -27,6 +27,7 @@ form button {
   font-size: 2rem;
   border: none;
   background: white;
+  color: black;
 }
 form button {
   color: #7f1eda;
@@ -119,7 +120,7 @@ select {
   color: #7f1eda;
   font-family: "Poppins", sans-serif;
   cursor: pointer;
-  width: 12rem;
+  width: 15rem;
 }
 /* Arrow */
 .select::after {
@@ -132,6 +133,11 @@ select {
   cursor: pointer;
   pointer-events: none;
 }
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
 /* Transition */
 /*
 .select:hover::after {

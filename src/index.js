@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import TodoPage from './pages/TodoPage';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
